@@ -58,8 +58,8 @@ body {
 .centered {text-align: center}
 .mt {margin-top: 50px;}
 .mt1 {
-	margin-top: 125px;
-	margin-bottom: 100px;
+	margin-top: 85px;
+	margin-bottom: 85px;
 	}
 .mb {margin-bottom: 50px;}
 .mtb {margin-top: 50px; margin-bottom: 50px;}
@@ -306,6 +306,28 @@ h4 {
 	border: solid 1px #ccc;
 	width: 80px;
 }
+
+#testimonial-product {
+	background: white;
+	padding-bottom: 50px;
+	padding-top: 50px;
+	min-height: 450px;
+	color: white;
+	background-attachment: relative;
+	background-position: center center;
+	width: 100%;
+	
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
 
 
 /* GENERAL CONF */
